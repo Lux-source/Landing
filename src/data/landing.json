@@ -1,0 +1,125 @@
+{
+  "meta": {
+    "title": "Nicoleta Negoita",
+    "description": "Landing page Nicoleta Negoita",
+    "lang": "es",
+    "charset": "UTF-8",
+    "ldJson": {
+      "@context": "http://schema.org",
+      "@type": "Organization",
+      "name": "Nicoleta Negoita",
+      "description": "Compañía logística que se encarga de realizar entregas de forma nacional e internacional.",
+      "url": "https:///", 
+      "logo": "./public/favicon.svg",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "email": "nnegoita273@gmail.com",
+        "contactType": "Client Service"
+      }
+    }
+  },
+  "headerData": {
+    "logo": "Nicoleta Negoita",
+    "links": [
+      { "label": "Sobre nosotros", "href": "#hero-section" },
+      { "label": "Servicios", "href": "#services-section" },
+	  { "label": "Contacto", "href": "mailto:nnegoita273@gmail.com" }
+    ]
+  },
+  "heroData": {
+    "title": "Abre tus productos al resto de Europa",
+    "subTitle": "Transporte Seguro y Puntual Para Tu Negocio. En Nicoleta Negoita, llevamos tu carga con la máxima seguridad y precisión temporal. Descubre cómo nuestra empresa familiar puede potenciar tu logística empresarial",
+    "primaryCta": "Contacta con nosotros",
+    "secondaryCta": "Consulta nuestros precios",
+    "highlightedTitle": "Nicoleta Negoita"
+  },
+  "servicesData": {
+	"id": "section1",
+    "title": "Soluciones logísticas a tu alcance",
+    "services": [
+      {
+        "title": "Soluciones Logísticas Personalizadas",
+        "icon": "DevIcon",
+        "description": "Nuestras soluciones están diseñadas por expertos en logística, asegurando una experiencia de transporte moderna y eficiente para tu negocio. Desde la planificación de rutas hasta la gestión de entregas, cada detalle está cuidadosamente considerado para proyectar una imagen de eficiencia y confiabilidad."
+      },
+      {
+        "title": "Implementación Eficiente",
+        "icon": "ConfigIcon",
+        "description": "Con nuestros servicios logísticos, no necesitas ser un experto para obtener resultados excepcionales. Ofrecemos integraciones rápidas y eficientes, con procesos intuitivos que te permiten gestionar tus envíos de manera efectiva. ¡Destaca en el transporte sin complicaciones!"
+      },
+      {
+        "title": "Compromiso con la Excelencia",
+        "icon": "FileIcon",
+        "description": "Nos preocupamos por la accesibilidad y la claridad en la logística, asegurando que nuestros procesos sean transparentes y comprensibles, manteniendo los estándares más altos de la industria para garantizar una experiencia inclusiva y segura para nuestros clientes."
+      },
+      {
+        "title": "Visibilidad Optimizada para la Industria",
+        "icon": "PlanetIcon",
+        "description": "Comprendemos la importancia de ser visibles para clientes que buscan servicios logísticos confiables. Nuestras operaciones están optimizadas para ser localizadas fácilmente por socios comerciales, ayudando a mejorar tu posición en el mercado de transportes."
+      }
+    ]
+  },
+  "adventajesData": {
+    "title": "    Unlock the Power of Luna Landing: Discover the Key Benefits",
+    "adventajes": [
+      {
+        "title": "Take Your Website to Perfection",
+        "description": "Our intuitive customization options empower you to create a website that stands out and resonates with your audience like never before. Say goodbye to cookie-cutter designs and hello to a website that truly reflects your vision and personality.",
+        "img": "template.webp",
+        "imageAlt": "this is an image about the template service adventajes",
+        "checks": ["Colors", "Fonts", "Layout"]
+      },
+      {
+        "title": "Reach the Top of Search Rankings",
+        "description": "Elevate your online visibility with our SEO-optimized template. Built with search engine algorithms in mind, our template is designed to help your website climb to the top of search engine results pages (SERPs). From optimized meta tags and clean HTML structure to mobile responsiveness and fast loading times, every aspect of our template is geared towards maximizing your website's search engine performance. Increase your organic traffic, attract more visitors, and grow your online presence with ease.",
+        "img": "seo.webp",
+        "imageAlt": "this is an image about the SEO adventajes",
+        "checks": ["Search Visibility", "Organic Traffic", "Online Credibility"]
+      }
+    ]
+  },
+  "brandsData": {
+	"id": "section2",
+    "title": "Colaborando con grandes y medianas empresas",
+    "description": "Trabajamos estrechamente con líderes de la industria como Amazon Relay, Timocom y Alonso Delta Stocks Logistics. Asegurando un servicio de logística de primera línea que cumple con los más altos estándares de seguridad y eficiencia en el transporte.",
+    "brands": [
+      { "label": "Amazon Relay", "icon": "ReactIcon", "href": "https://www.amazon.es/" },
+	  { "label": "Timocom", "icon": "SolidIcon", "href": "https://www.timocom.es/" },
+	  { "label": "Alonso Deltac Stock Logistics", "icon": "NetlifyIcon", "href": "https://www.deltastocks.com/?page_id=863&lang=en" }
+    ]
+  },
+  "pricingData": {
+    "title": "",
+	"description": "",
+    "tiers": [
+      {
+        "title": "",
+        "description": "",
+        "price": {
+          "amount": "",
+		  "price": "",
+          "period": ""
+        },
+        "features": [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        "cta": ""
+      }
+    ]
+  },
+  "footerData": {
+    "logo": "Nicoleta Negoita",
+    "description": "Incorporando innovación y puntualidad en la logística, Nicoleta Negoita se dedica a ofrecer soluciones de transporte seguras y eficientes para medianas y grandes empresas. Contáctanos para discutir cómo podemos ayudarte a mover tus productos con confianza.",
+    "links": [
+      { "label": "Sobre nosotros", "href": "#hero-section" },
+      { "label": "Servicios", "href": "#services-section" },
+      { "label": "Contacto", "href": "mailto:nnegoita273@gmail.com" }
+    ],
+    "socials": [
+    ]
+  }
+}
